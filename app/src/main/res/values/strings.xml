@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Unit</string>
+    <string name="how_to_meaning">선택한 게시판에 게시글 작성 시에 알림을 받으실 수 있습니다.</string>
+    <string name="green">그린지구대</string>
+    <string name="donga">동아지구대</string>
+    <string name="city">시티지구대</string>
+    <string name="u_nion">유니온지구대</string>
+    <string name="jamsil">잠실지구대</string>
+    <string name="jungsan">정산지구대</string>
+    <string name="notice">공지사항</string>
+    <string name="gallery">갤러리</string>
+    <string name="total">회의록/회계록</string>
+    <string name="comment">내가 작성 한 글에서 댓글 작성 시 알림 받기</string>
+    <string name="noti"> 새 글 등록 시, 알림 받기</string>
+    <string name="help">문의 사항은 UNIT 관리자에게 쪽지 혹은 총단에게 문의 부탁드립니다.</string>
+</resources>
